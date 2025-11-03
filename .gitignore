@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+env/
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Configuración local
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
