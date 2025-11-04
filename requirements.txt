@@ -7,3 +7,5 @@ ucimlrepo
 ipykernel
 openpyxl
 category-encoders
+scipy
+imbalanced-learn
